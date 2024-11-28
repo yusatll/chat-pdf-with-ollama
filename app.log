@@ -1,0 +1,1 @@
+2024-11-28 08:33:45,731 INFO response: ['{"model":"llama3.1:latest","created_at":"2024-11-28T05:33:41.8728908Z","response":"The","done":false}', '{"model":"llama3.1:latest","created_at":"2024-11-28T05:33:41.9121602Z","response":" provided","done":false}', '{"model":"llama3.1:latest","created_at":"2024-11-28T05:33:41.9361527Z","response":" snippet","done":false}']
